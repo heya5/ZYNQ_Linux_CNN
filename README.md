@@ -1,5 +1,6 @@
 # ZYNQ_Linux_CNN
 
+## Development environment
 - Vivado 2016.4
 
 ## Generate LeNet IP using Vivado HLS
